@@ -75,5 +75,4 @@ docker run --rm --name dockagator \
 
 ## Assistance
 
-If you are having trouble completing any part of this project, then please talk with either the course instructor or a teaching assistant during the lab session. You can also schedule a meeting during the course instructor's
-office hours.
+If you are having trouble completing any part of this project, then please talk with either the course instructor or a tech-leader during the lab session. You can also schedule a meeting during the course instructor's office hours.
